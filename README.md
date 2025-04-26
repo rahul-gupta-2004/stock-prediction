@@ -41,3 +41,41 @@ This project is a stock price prediction system that uses LSTM neural networks t
    ```
 
 ## Usage
+1. **Run the prediction system** (automatically runs at midnight):
+
+   ```
+   python main.py
+   ```
+   
+2. **View predictions**:
+
+   ```
+   streamlit run display_data.py
+   ```
+
+## File Structure
+- `main.py`: Main scheduler that runs predictions daily
+- `predict_stock.py`: Contains LSTM model and prediction logic
+- `data.py`: Handles Airtable integration
+- `display_data.py`: Streamlit web interface
+- `.env`: Configuration file (not included in repo)
+
+## Requirements
+- Python 3.8+
+- yfinance
+- pandas
+- numpy
+- scikit-learn
+- tensorflow/keras
+- pyairtable
+- python-dotenv
+- streamlit
+
+## Output Examples
+The system produces two main outputs:
+
+1. Airtable Data Storage (table.jpeg): Shows the predicted prices stored in Airtable
+`![Airtable Data Storage Image](image.jpg)`
+
+2.Web Interface (website.jpeg): Displays the predictions in a user-friendly format with proper formatting
+`![Web Interface](image.jpg)`

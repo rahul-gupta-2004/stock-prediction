@@ -74,6 +74,7 @@ This project is a stock price prediction system that uses LSTM neural networks t
 ## Output Examples
 The system produces two main outputs:
 1. Airtable Data Storage (table.jpeg): Shows the predicted prices stored in Airtable
-`![Airtable Data Storage Image]([image.jpg](https://github.com/rahul-gupta-2004/stock-prediction/blob/main/outputs/table.jpeg))`
+![image](https://github.com/user-attachments/assets/7c306d90-8b0e-485e-973f-d284424b1bef)
+
 2.Web Interface (website.jpeg): Displays the predictions in a user-friendly format with proper formatting
-`![Web Interface]([image.jpg](https://github.com/rahul-gupta-2004/stock-prediction/blob/main/outputs/website.jpeg))`
+`![Web Interface]([image.jpg]())`

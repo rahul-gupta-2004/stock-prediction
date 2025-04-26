@@ -54,11 +54,11 @@ This project is a stock price prediction system that uses LSTM neural networks t
    ```
 
 ## File Structure
-- `main.py`: Main scheduler that runs predictions daily
-- `predict_stock.py`: Contains LSTM model and prediction logic
-- `data.py`: Handles Airtable integration
-- `display_data.py`: Streamlit web interface
-- `.env`: Configuration file (not included in repo)
+- `main.py` : Main scheduler that runs predictions daily
+- `predict_stock.py` : Contains LSTM model and prediction logic
+- `data.py` : Handles Airtable integration
+- `display_data.py` : Streamlit web interface
+- `.env` : Configuration file (not included in repo)
 
 ## Requirements
 - Python 3.8+

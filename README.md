@@ -58,7 +58,12 @@ This project is a stock price prediction system that uses LSTM neural networks t
 - `predict_stock.py` : Contains LSTM model and prediction logic
 - `data.py` : Handles Airtable integration
 - `display_data.py` : Streamlit web interface
+- `prediction_wipro.ipynb` : Jupyter notebook for interactive exploration and analysis of Wipro stock predictions
 - `.env` : Configuration file (not included in repo)
+
+## Additional Resources
+- **Jupyter Notebook for Wipro Predictions**:
+- `prediction_wipro.ipynb` provides an interactive environment for exploring the prediction process specifically for Wipro. You can use this notebook to experiment with different parameters and visualize the results.
 
 ## Requirements
 - Python 3.8+

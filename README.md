@@ -63,7 +63,7 @@ This project is a stock price prediction system that uses LSTM neural networks t
 
 ## Additional Resources
 - **Jupyter Notebook for Wipro Predictions**:
-- `prediction_wipro.ipynb` provides an interactive environment for exploring the prediction process specifically for Wipro. You can use this notebook to experiment with different parameters and visualize the results.
+  `prediction_wipro.ipynb` provides an interactive environment for exploring the prediction process specifically for Wipro. You can use this notebook to experiment with different parameters and visualize the results.
 
 ## Requirements
 - Python 3.8+

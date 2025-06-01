@@ -81,6 +81,6 @@ The system produces two main outputs:
 1. Airtable Data Storage (table.jpeg): Shows the predicted prices stored in Airtable
 ![image](https://github.com/user-attachments/assets/7c306d90-8b0e-485e-973f-d284424b1bef)
 
-2.Web Interface (website.jpeg): Displays the predictions in a user-friendly format with proper formatting
+2. Web Interface (website.jpeg): Displays the predictions in a user-friendly format with proper formatting
 ![image](https://github.com/user-attachments/assets/3908177d-9a88-4737-b8ec-a1836cc66b9d)
 
